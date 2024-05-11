@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+i{
+    color: brown;
+}
+em{
+    color: chartreuse;
+}
+cite{
+    color: aqua;
+}
+q{
+    color: chocolate;
+}
